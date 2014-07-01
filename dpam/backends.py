@@ -1,4 +1,4 @@
-import pam
+import simplepam as pam
 
 from django.conf import settings
 from django.contrib.auth.models import User
